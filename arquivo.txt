@@ -15,3 +15,5 @@ Segundo commit - Mara - main
 Terceiro commit - Mara - ramo 3
 
 Modificação a direita
+
+Modificação a esquerda
